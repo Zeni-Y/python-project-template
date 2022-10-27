@@ -2,10 +2,10 @@
 name = "python-project-template"
 version = "0.1.0"
 description = ""
-authors = ["author"]
+authors = ["project-author"]
 readme = "README.md"
 packages = [
-    {include = "python_project_template", from = "src"}
+    {include = "python-project-template", from = "src"}
 ]
 
 [tool.poetry.dependencies]
